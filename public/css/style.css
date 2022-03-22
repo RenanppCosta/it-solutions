@@ -8,6 +8,10 @@
     font-family: "Roboto", sans-serif;
 }
 
+#menu a{
+    color: white;
+}
+
 #menu{
     background-color: rgb(17, 17, 17);
     color: white;
